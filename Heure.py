@@ -15,7 +15,7 @@ h,m,s=0,0,0
 s=time.localtime().tm_sec
 font=pg.font.SysFont('Consolas',25)
 zoom=100
-help(time)
+
 sem=['Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi','Dimanche']
 mois='Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre'.split(' ')
 
